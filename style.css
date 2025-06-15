@@ -16,8 +16,8 @@ body{
 }
 
 *{
-    margin: 0;
-    padding: 0;
+    margin:0;
+    padding:0;
 }
 
 .principal{
@@ -35,7 +35,7 @@ body{
 }
 
 .container__botao{
-    background:var(--botao-azul);
+    background: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
     color:var(--branco-principal);
